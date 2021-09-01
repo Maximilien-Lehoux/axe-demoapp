@@ -1,7 +1,7 @@
 
 # DropWizard Demo Application
 
-Welcome to the DropWizard Demo Application !
+Welc ome to the DropWizard Demo Application !
 
 Hello M2I!
 
